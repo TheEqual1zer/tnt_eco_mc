@@ -229,6 +229,7 @@ namespace Weekend_proj
                             cost + 1 == 431 || cost + 1 == 441 || cost + 1 == 451 || cost + 1 == 461 || cost + 1 == 471 ||
                             cost + 1 == 481 || cost + 1 == 491 || cost + 1 == 501 || cost + 1 == 521 ||
                             cost + 1 == 531 || cost + 1 == 541 || cost + 1 == 551 || cost + 1 == 561 || cost + 1 == 571)
+                            //збс пирамида. и нет, оптимизировать не буду)00
                         {
                             contest = contestA;
                         }

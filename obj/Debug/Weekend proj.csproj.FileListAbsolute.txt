@@ -1,0 +1,20 @@
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\bin\Debug\Weekend proj.exe.config
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\obj\Debug\Weekend proj.csprojResolveAssemblyReference.cache
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\obj\Debug\Resources\Icons.baml
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\obj\Debug\Resources\IconsNonShared.baml
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\obj\Debug\App.g.cs
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\obj\Debug\Weekend proj_MarkupCompile.cache
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\bin\Debug\Weekend proj.exe
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\bin\Debug\Weekend proj.pdb
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\bin\Debug\MahApps.Metro.dll
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\bin\Debug\System.Windows.Interactivity.dll
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\bin\Debug\MahApps.Metro.pdb
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\bin\Debug\MahApps.Metro.xml
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\obj\Debug\MainWindow.baml
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\obj\Debug\MainWindow.g.cs
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\obj\Debug\Weekend proj.g.resources
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\obj\Debug\Weekend_proj.Properties.Resources.resources
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\obj\Debug\Weekend proj.csproj.GenerateResource.Cache
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\obj\Debug\Weekend proj.exe
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\obj\Debug\Weekend proj.pdb
+c:\users\пользователь\documents\visual studio 2013\Projects\Weekend proj\Weekend proj\obj\Debug\App.baml
